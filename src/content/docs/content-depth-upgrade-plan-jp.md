@@ -18,29 +18,26 @@
 - [x] skill-gog-jp
 - [x] skill-nano-pdf-jp
 
-### Batch B（導線・基本概念）
+### Batch B（導線・基本概念・安全）
 - [x] openclaw-what-it-is-jp
 - [x] openclaw-skills-recommend-jp
-- [ ] openclaw-clawhub-security-jp
+- [x] openclaw-clawhub-security-jp
+- [x] openclaw-api-key-pitfalls-jp
+- [x] openclaw-japanese-settings-jp
+- [x] security-baseline
 - [ ] openclaw-browser-plugin-troubleshoot-jp
 
-### Batch C（詳細手順・SOP）
-- [ ] openclaw-deploy-options-jp
-- [ ] openclaw-api-key-pitfalls-jp
-- [ ] openclaw-sop-four-step-jp
+### Batch C（詳細手順・SOP・デプロイ）
+- [x] openclaw-deploy-options-jp
+- [x] openclaw-sop-four-step-jp
+- [x] vps-deploy
+- [x] openclaw-android-termux-jp
+- [x] openclaw-github-vercel-workflow-jp
 - [ ] openclaw-vps-x-crawl-safe-jp
-
-## 升级模板（全页统一）
-1. 対象読者
-2. 事前準備
-3. 実装手順
-4. 失敗例と対処
-5. 再発防止
-6. KPI
-7. FAQ
-8. 参考リンク
+- [ ] openclaw-wechat-troubleshooting-jp
 
 ## 进度記録
 - [x] Batch A: 全コアスキルシリーズの深度化完了 (2026-03-17)
-- [x] Batch B: 導線系主要2ページの深度化完了 (2026-03-17)
-- [ ] Batch B/C: 残り10ページの深度化を継続中
+- [x] Batch B: 核心ページの大半を深度化完了 (2026-03-18)
+- [x] Batch C: デプロイ・SOP系の主要ページを深度化完了 (2026-03-18)
+- [ ] 残り: ブラウザ排障、X収集安全、WeChat排障の3記事
